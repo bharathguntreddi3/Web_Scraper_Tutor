@@ -21,7 +21,7 @@ Of course you can create your own scraper by using python and other programming 
   
 Suppose you want some information from a website? Let’s say a paragraph on Narendra Modi! What do you do? Well, you can copy and paste the information from Wikipedia to your own file. But what if you want to get large amounts of information from a website as quickly as possible? Such as large amounts of data from a website to train a [`Machine Learning`](https://towardsdatascience.com/web-scraping-for-machine-learning-5fffb7047f70) algorithm? In such a situation, copying and pasting will not work! And that’s when you’ll need to use Web Scraping.
 
-![ML_scrap](https://user-images.githubusercontent.com/95229816/152687120-9b108aae-3f84-4dc6-88b4-6f5342f3dd66.png)
+<p align  = "center"><img width = "800" src = "https://user-images.githubusercontent.com/95229816/152687120-9b108aae-3f84-4dc6-88b4-6f5342f3dd66.png"></p>
 
 
 <h4>Unlike the long and mind-numbing process of manually getting data, Web scraping uses intelligence automation methods to get thousands or even millions of data sets in a smaller amount of time.</h4>
@@ -30,18 +30,18 @@ Suppose you want some information from a website? Let’s say a paragraph on Nar
 
 Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications. There are many different ways to perform web scraping to obtain data from websites. These include using online services, particular API’s or even creating your code for web scraping from scratch. Many large websites, like [Google](https://www.google.com/), [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [StackOverflow](https://stackoverflow.com/), etc. have [API’s](https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.) that allow you to access their data in a structured format. This is the best option, but there are other sites that don’t allow users to access large amounts of data in a structured form or they are simply not that technologically advanced. In that situation, it’s best to use Web Scraping to scrape the website for data.
 
-![Python-Web-Scraping](https://user-images.githubusercontent.com/95229816/152687770-cc346743-e709-4751-b576-cc691bce4ca3.gif)
+<p align = "center"><img height = "500" src= "https://user-images.githubusercontent.com/95229816/152687770-cc346743-e709-4751-b576-cc691bce4ca3.gif"></p>
 
 ## Required Parts
 
-Crawler : 
+<strong>Crawler :</strong> 
 The crawler is an artificial intelligence algorithm that browses the web to search for the particular data required by following the links across the internet.
 
-scraper : 
+<strong>scraper :</strong> 
 The scraper, on the other hand, is a specific tool created to extract data from the website. The design of the scraper can vary greatly according to the complexity and scope of the project so that it can quickly and accurately extract the data.
 
 
-![crawlevsscraper](https://user-images.githubusercontent.com/95229816/152688053-d24f5330-9226-421e-ab87-d647f55caf5c.jpg)
+<p align = "center"><img width = "700" src = "https://user-images.githubusercontent.com/95229816/152688053-d24f5330-9226-421e-ab87-d647f55caf5c.jpg"></p>
 
 # How Web Scraper Works?
 
